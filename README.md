@@ -11,7 +11,7 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adithyarana&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhiiii-001&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Social Links -->
