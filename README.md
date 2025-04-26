@@ -17,10 +17,10 @@
 <!-- Social Links -->
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/adithya-rana-7859b9287/" target="blank">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-abhiii/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0e76a8&labelColor=1a1a1a" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/adithya.rana.11" target="blank">
+  <a href="" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&color=E1306C&labelColor=1a1a1a" alt="Instagram" />
   </a>
 </div>
@@ -38,11 +38,11 @@
 
 <h3 align="left" style="color: #58a6ff;">Connect with Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/https://x.com/home?lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/adithya-rana-7859b9287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/adithya rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://x.com/the_real_abhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-abhiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22691011/abhishek-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://instagram.com/adithya.rana.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/adithyarana447/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/the_real_abhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: #58a6ff;">Languages and Tools:</h3>
@@ -71,12 +71,12 @@
 
 <!-- GitHub Stats with Dark Theme -->
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyarana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiiii-001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiiii-001&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 <!-- GitHub Streak -->
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=adithyarana&theme=dark)](https://git.io/streak-stats)" 
+    src="https://streak-stats.demolab.com/?user=Abhiiii-001&theme=dark)](https://git.io/streak-stats)" 
     alt="GitHub Streak" 
     style="max-width: 100%; height: auto;" 
   />
