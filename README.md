@@ -76,7 +76,7 @@ I am a versatile **Full-Stack Developer** specializing in building robust web ap
 
 ### 🌐 Connect with Me
 
-- 💼 **Portfolio:** [Check it out here!](https://restro-client.vercel.app/) *(Updating soon with my new vCard portfolio)*
+- 💼 **Portfolio:** [Check it out here!](https://abhishek-kumar-chi.vercel.app/)
 - 🔗 **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-abhiii)
 - 🐦 **Twitter:** [@the_real_abhi_](https://x.com/the_real_abhi_)
 - 📸 **Instagram:** [_me_abhishek_43_](https://www.instagram.com/_me_abhishek_43/)
